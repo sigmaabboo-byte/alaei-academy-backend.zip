@@ -1,0 +1,17 @@
+{
+ "name": "آکادمی ریاضی استاد اعلایی‌نسب",
+ "short_name": "آکادمی ریاضی",
+ "lang": "fa",
+ "dir": "rtl",
+ "start_url": "/",
+ "display": "standalone",
+ "background_color": "#061A2E",
+ "theme_color": "#061A2E",
+ "icons": [
+  {
+   "src": "favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}
